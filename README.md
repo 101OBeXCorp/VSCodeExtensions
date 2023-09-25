@@ -1,6 +1,6 @@
 # VSCodeExtensions
 
-## Base Extension
+## Base Extension
 You must first install this extension, intended to manage the organizations you collaborate with and the projects you have access to.
 
 <img width="461" alt="Captura de pantalla 2023-09-25 a las 13 17 24" src="https://github.com/101OBeXCorp/VSCodeExtensions/assets/117910597/cc33e6a3-3ee5-4e91-b67b-149ca7d0936d">
